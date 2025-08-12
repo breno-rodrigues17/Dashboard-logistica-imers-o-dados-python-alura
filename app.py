@@ -5,7 +5,7 @@ import plotly.express as px
 
 # Carregar dados 
 
-df = pd.read_csv("dados_logistica.cvs")
+df = pd.read_csv("dados_logistica.csv")
 
 #titulo
 title = ("Dashboard de Logísticas")
@@ -65,4 +65,5 @@ fig2 = px.pie(
     hole=0.4
 )
 st.plotly_chart(fig2)
+
 
