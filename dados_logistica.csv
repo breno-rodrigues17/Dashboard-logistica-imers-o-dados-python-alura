@@ -1,0 +1,101 @@
+﻿Pedido_ID,Data_Pedido,Cliente,Cidade,Estado,Produto,Categoria,Quantidade,Valor_Total,Transportadora,Status_Entrega,Data_Entrega,Estoque_Atual,Estoque_Minimo
+1001,2025-08-05,Carla Mendes,Manaus,AM,Óculos de Proteção,EPIs,4,60.0,Jadlog,Atrasado,2025-08-08,6,19
+1002,2025-08-29,Thiago Moreira,Vitória,ES,Furadeira X1000,Ferramentas,3,975.0,Correios,Em Trânsito,2025-09-04,44,15
+1003,2025-08-10,Paula Martins,Vitória,ES,Óculos de Proteção,EPIs,4,60.0,Correios,Em Trânsito,2025-08-11,49,7
+1004,2025-08-24,Sofia Dias,Florianópolis,SC,Luva Térmica,EPIs,3,75.0,Jadlog,Em Trânsito,2025-08-29,22,17
+1005,2025-08-19,Carla Mendes,Porto Alegre,RS,Óculos de Proteção,EPIs,4,60.0,Jadlog,Atrasado,2025-08-20,20,5
+1006,2025-08-31,Thiago Moreira,Recife,PE,Óculos de Proteção,EPIs,4,60.0,Azul Cargo,Em Trânsito,2025-09-05,20,18
+1007,2025-08-31,Rafael Gomes,Salvador,BA,Capacete Protec,EPIs,3,255.0,Azul Cargo,Atrasado,2025-09-06,11,6
+1008,2025-08-11,Rafael Gomes,Recife,PE,Furadeira X1000,Ferramentas,1,325.0,Jadlog,Em Trânsito,2025-08-17,30,12
+1009,2025-08-02,Lucas Ferreira,Porto Alegre,RS,Óculos de Proteção,EPIs,4,60.0,Azul Cargo,Em Trânsito,2025-08-07,2,9
+1010,2025-08-20,Bruno Rocha,Fortaleza,CE,Furadeira X1000,Ferramentas,2,650.0,Azul Cargo,Atrasado,2025-08-25,1,11
+1011,2025-08-07,Carlos Almeida,Fortaleza,CE,Luva Térmica,EPIs,4,100.0,Azul Cargo,Atrasado,2025-08-14,3,9
+1012,2025-08-31,Carlos Almeida,Florianópolis,SC,Luva Térmica,EPIs,5,125.0,Jadlog,Entregue,2025-09-04,5,16
+1013,2025-08-29,Fernanda Lima,Natal,RN,Capacete Protec,EPIs,3,255.0,Correios,Atrasado,2025-08-31,26,16
+1014,2025-08-17,Rafael Gomes,Belém,PA,Serra Circular,Ferramentas,5,1600.0,Correios,Atrasado,2025-08-19,49,11
+1015,2025-08-19,Pedro Souza,Manaus,AM,Furadeira X1000,Ferramentas,3,975.0,Jadlog,Entregue,2025-08-21,14,5
+1016,2025-08-06,Fernanda Lima,Campinas,SP,Óculos de Proteção,EPIs,2,30.0,Correios,Em Trânsito,2025-08-07,19,11
+1017,2025-08-22,João Silva,Curitiba,PR,Capacete Protec,EPIs,2,170.0,Jadlog,Atrasado,2025-08-24,12,11
+1018,2025-08-13,Rafael Gomes,Manaus,AM,Capacete Protec,EPIs,2,170.0,Azul Cargo,Entregue,2025-08-20,48,18
+1019,2025-08-18,Lucas Ferreira,Recife,PE,Furadeira X1000,Ferramentas,5,1625.0,Jadlog,Atrasado,2025-08-21,19,5
+1020,2025-08-25,Fernanda Lima,Recife,PE,Chave Inglesa,Ferramentas,1,47.5,Jadlog,Em Trânsito,2025-08-30,19,14
+1021,2025-08-01,Fernanda Lima,Fortaleza,CE,Óculos de Proteção,EPIs,1,15.0,Azul Cargo,Entregue,2025-08-05,29,6
+1022,2025-08-07,Marcos Paulo,Salvador,BA,Capacete Protec,EPIs,4,340.0,Jadlog,Em Trânsito,2025-08-13,24,15
+1023,2025-08-25,Lucas Ferreira,Porto Alegre,RS,Serra Circular,Ferramentas,5,1600.0,Azul Cargo,Em Trânsito,2025-08-27,12,6
+1024,2025-08-22,Lucas Ferreira,Fortaleza,CE,Chave Inglesa,Ferramentas,3,142.5,Jadlog,Em Trânsito,2025-08-26,45,16
+1025,2025-08-12,João Silva,São Paulo,SP,Caixa de Parafusos,Ferramentas,2,48.0,Jadlog,Entregue,2025-08-19,43,6
+1026,2025-08-11,Ana Santos,Florianópolis,SC,Capacete Protec,EPIs,2,170.0,Azul Cargo,Entregue,2025-08-15,7,11
+1027,2025-08-24,Lucas Ferreira,Recife,PE,Caixa de Parafusos,Ferramentas,3,72.0,Azul Cargo,Em Trânsito,2025-08-29,37,8
+1028,2025-08-20,Carla Mendes,Curitiba,PR,Serra Circular,Ferramentas,4,1280.0,Correios,Atrasado,2025-08-26,45,8
+1029,2025-08-29,João Silva,Florianópolis,SC,Luva Térmica,EPIs,5,125.0,Jadlog,Atrasado,2025-09-02,36,12
+1030,2025-08-19,João Silva,Vitória,ES,Serra Circular,Ferramentas,5,1600.0,Jadlog,Em Trânsito,2025-08-26,44,10
+1031,2025-08-04,Marcos Paulo,Rio de Janeiro,RJ,Furadeira X1000,Ferramentas,5,1625.0,Azul Cargo,Em Trânsito,2025-08-09,24,13
+1032,2025-08-26,Beatriz Costa,Florianópolis,SC,Óculos de Proteção,EPIs,4,60.0,Jadlog,Atrasado,2025-08-27,20,17
+1033,2025-08-04,Bruno Rocha,São Paulo,SP,Capacete Protec,EPIs,1,85.0,Jadlog,Em Trânsito,2025-08-09,39,12
+1034,2025-08-09,Pedro Souza,Recife,PE,Caixa de Parafusos,Ferramentas,2,48.0,Correios,Entregue,2025-08-13,45,11
+1035,2025-08-03,Pedro Souza,Curitiba,PR,Chave Inglesa,Ferramentas,3,142.5,Azul Cargo,Entregue,2025-08-07,14,19
+1036,2025-08-05,Sofia Dias,Campinas,SP,Óculos de Proteção,EPIs,4,60.0,Azul Cargo,Entregue,2025-08-11,10,15
+1037,2025-08-09,João Silva,Curitiba,PR,Chave Inglesa,Ferramentas,4,190.0,Jadlog,Em Trânsito,2025-08-13,2,11
+1038,2025-08-08,Rafael Gomes,Vitória,ES,Capacete Protec,EPIs,1,85.0,Jadlog,Em Trânsito,2025-08-10,17,12
+1039,2025-08-06,Sofia Dias,São Paulo,SP,Luva Térmica,EPIs,4,100.0,Correios,Atrasado,2025-08-11,7,13
+1040,2025-08-29,Rafael Gomes,Fortaleza,CE,Serra Circular,Ferramentas,2,640.0,Azul Cargo,Atrasado,2025-08-31,35,11
+1041,2025-08-18,Beatriz Costa,Manaus,AM,Serra Circular,Ferramentas,4,1280.0,Jadlog,Atrasado,2025-08-25,8,15
+1042,2025-08-21,Ana Santos,Rio de Janeiro,RJ,Capacete Protec,EPIs,2,170.0,Azul Cargo,Em Trânsito,2025-08-23,6,16
+1043,2025-08-08,Beatriz Costa,Goiânia,GO,Furadeira X1000,Ferramentas,2,650.0,Azul Cargo,Em Trânsito,2025-08-15,15,14
+1044,2025-08-06,João Silva,Salvador,BA,Serra Circular,Ferramentas,2,640.0,Correios,Entregue,2025-08-07,18,17
+1045,2025-08-07,Sofia Dias,Goiânia,GO,Capacete Protec,EPIs,1,85.0,Azul Cargo,Entregue,2025-08-10,6,10
+1046,2025-08-17,João Silva,Salvador,BA,Serra Circular,Ferramentas,4,1280.0,Correios,Em Trânsito,2025-08-21,43,20
+1047,2025-08-17,Maria Oliveira,Florianópolis,SC,Serra Circular,Ferramentas,3,960.0,Azul Cargo,Em Trânsito,2025-08-24,29,7
+1048,2025-08-31,Pedro Souza,Vitória,ES,Serra Circular,Ferramentas,4,1280.0,Jadlog,Entregue,2025-09-04,29,19
+1049,2025-08-18,Thiago Moreira,Recife,PE,Capacete Protec,EPIs,2,170.0,Azul Cargo,Em Trânsito,2025-08-25,25,16
+1050,2025-08-20,Ana Santos,Porto Alegre,RS,Chave Inglesa,Ferramentas,4,190.0,Azul Cargo,Entregue,2025-08-27,25,9
+1051,2025-08-07,Maria Oliveira,Natal,RN,Furadeira X1000,Ferramentas,4,1300.0,Jadlog,Atrasado,2025-08-08,12,12
+1052,2025-08-13,Pedro Souza,Belém,PA,Chave Inglesa,Ferramentas,1,47.5,Correios,Atrasado,2025-08-15,20,17
+1053,2025-08-19,Carla Mendes,Belém,PA,Óculos de Proteção,EPIs,4,60.0,Correios,Atrasado,2025-08-20,31,5
+1054,2025-08-24,Paula Martins,Rio de Janeiro,RJ,Furadeira X1000,Ferramentas,1,325.0,Jadlog,Atrasado,2025-08-30,29,17
+1055,2025-08-28,Bruno Rocha,Manaus,AM,Chave Inglesa,Ferramentas,3,142.5,Jadlog,Entregue,2025-08-29,41,12
+1056,2025-08-06,João Silva,Belo Horizonte,MG,Óculos de Proteção,EPIs,1,15.0,Jadlog,Entregue,2025-08-09,26,15
+1057,2025-08-01,Bruno Rocha,Campinas,SP,Capacete Protec,EPIs,3,255.0,Jadlog,Entregue,2025-08-08,21,12
+1058,2025-08-25,Fernanda Lima,Belém,PA,Óculos de Proteção,EPIs,5,75.0,Azul Cargo,Em Trânsito,2025-08-28,46,9
+1059,2025-08-31,Maria Oliveira,Belo Horizonte,MG,Luva Térmica,EPIs,4,100.0,Azul Cargo,Entregue,2025-09-03,42,17
+1060,2025-08-04,Fernanda Lima,Rio de Janeiro,RJ,Caixa de Parafusos,Ferramentas,3,72.0,Azul Cargo,Entregue,2025-08-08,43,13
+1061,2025-08-11,Maria Oliveira,Florianópolis,SC,Luva Térmica,EPIs,5,125.0,Jadlog,Entregue,2025-08-13,28,16
+1062,2025-08-26,Paula Martins,Rio de Janeiro,RJ,Luva Térmica,EPIs,3,75.0,Correios,Atrasado,2025-08-27,6,9
+1063,2025-08-18,Thiago Moreira,Natal,RN,Óculos de Proteção,EPIs,3,45.0,Azul Cargo,Atrasado,2025-08-24,41,14
+1064,2025-08-29,Rafael Gomes,Recife,PE,Luva Térmica,EPIs,5,125.0,Azul Cargo,Em Trânsito,2025-09-02,14,15
+1065,2025-08-10,Carla Mendes,Manaus,AM,Capacete Protec,EPIs,2,170.0,Jadlog,Em Trânsito,2025-08-17,32,19
+1066,2025-08-30,Lucas Ferreira,Fortaleza,CE,Óculos de Proteção,EPIs,3,45.0,Azul Cargo,Atrasado,2025-08-31,22,9
+1067,2025-08-08,Carla Mendes,Manaus,AM,Capacete Protec,EPIs,3,255.0,Correios,Em Trânsito,2025-08-13,3,9
+1068,2025-08-15,Lucas Ferreira,Porto Alegre,RS,Luva Térmica,EPIs,4,100.0,Jadlog,Em Trânsito,2025-08-18,1,20
+1069,2025-08-05,Carla Mendes,São Paulo,SP,Caixa de Parafusos,Ferramentas,5,120.0,Correios,Atrasado,2025-08-12,6,13
+1070,2025-08-02,Thiago Moreira,Goiânia,GO,Capacete Protec,EPIs,2,170.0,Azul Cargo,Em Trânsito,2025-08-07,30,7
+1071,2025-08-07,Ana Santos,Curitiba,PR,Chave Inglesa,Ferramentas,2,95.0,Jadlog,Em Trânsito,2025-08-14,17,13
+1072,2025-08-01,Thiago Moreira,Salvador,BA,Caixa de Parafusos,Ferramentas,2,48.0,Correios,Em Trânsito,2025-08-03,29,13
+1073,2025-08-29,Fernanda Lima,Recife,PE,Furadeira X1000,Ferramentas,2,650.0,Azul Cargo,Atrasado,2025-09-02,31,19
+1074,2025-08-25,Carla Mendes,Belo Horizonte,MG,Chave Inglesa,Ferramentas,3,142.5,Jadlog,Entregue,2025-08-28,10,10
+1075,2025-08-04,Fernanda Lima,Florianópolis,SC,Capacete Protec,EPIs,1,85.0,Azul Cargo,Atrasado,2025-08-10,29,5
+1076,2025-08-31,Pedro Souza,Recife,PE,Caixa de Parafusos,Ferramentas,2,48.0,Azul Cargo,Entregue,2025-09-01,42,8
+1077,2025-08-15,Bruno Rocha,Belém,PA,Furadeira X1000,Ferramentas,3,975.0,Correios,Atrasado,2025-08-16,16,16
+1078,2025-08-07,Ana Santos,Porto Alegre,RS,Caixa de Parafusos,Ferramentas,4,96.0,Correios,Atrasado,2025-08-12,36,5
+1079,2025-08-18,Fernanda Lima,Belém,PA,Serra Circular,Ferramentas,1,320.0,Jadlog,Em Trânsito,2025-08-25,23,7
+1080,2025-08-01,Thiago Moreira,Fortaleza,CE,Capacete Protec,EPIs,4,340.0,Azul Cargo,Entregue,2025-08-02,22,20
+1081,2025-08-26,Rafael Gomes,São Paulo,SP,Luva Térmica,EPIs,4,100.0,Azul Cargo,Entregue,2025-08-27,42,14
+1082,2025-08-26,Fernanda Lima,Curitiba,PR,Óculos de Proteção,EPIs,3,45.0,Azul Cargo,Atrasado,2025-09-02,21,17
+1083,2025-08-15,Thiago Moreira,São Paulo,SP,Óculos de Proteção,EPIs,2,30.0,Azul Cargo,Entregue,2025-08-22,28,14
+1084,2025-08-19,Rafael Gomes,Belo Horizonte,MG,Caixa de Parafusos,Ferramentas,5,120.0,Correios,Atrasado,2025-08-22,40,17
+1085,2025-08-21,Bruno Rocha,Rio de Janeiro,RJ,Serra Circular,Ferramentas,1,320.0,Azul Cargo,Entregue,2025-08-22,5,19
+1086,2025-08-08,Ana Santos,Natal,RN,Luva Térmica,EPIs,1,25.0,Azul Cargo,Em Trânsito,2025-08-12,11,19
+1087,2025-08-06,Carla Mendes,Belo Horizonte,MG,Serra Circular,Ferramentas,3,960.0,Correios,Em Trânsito,2025-08-07,15,9
+1088,2025-08-17,Pedro Souza,Goiânia,GO,Serra Circular,Ferramentas,1,320.0,Correios,Atrasado,2025-08-20,16,5
+1089,2025-08-14,Beatriz Costa,Porto Alegre,RS,Chave Inglesa,Ferramentas,4,190.0,Correios,Atrasado,2025-08-20,5,7
+1090,2025-08-02,Thiago Moreira,Florianópolis,SC,Serra Circular,Ferramentas,5,1600.0,Azul Cargo,Atrasado,2025-08-05,37,10
+1091,2025-08-30,Fernanda Lima,Rio de Janeiro,RJ,Luva Térmica,EPIs,5,125.0,Azul Cargo,Em Trânsito,2025-09-03,15,10
+1092,2025-08-31,Pedro Souza,Belo Horizonte,MG,Chave Inglesa,Ferramentas,5,237.5,Azul Cargo,Atrasado,2025-09-07,47,17
+1093,2025-08-04,Paula Martins,Goiânia,GO,Óculos de Proteção,EPIs,5,75.0,Jadlog,Entregue,2025-08-07,29,9
+1094,2025-08-23,João Silva,Fortaleza,CE,Serra Circular,Ferramentas,2,640.0,Correios,Entregue,2025-08-24,35,13
+1095,2025-08-29,Pedro Souza,Vitória,ES,Caixa de Parafusos,Ferramentas,1,24.0,Azul Cargo,Entregue,2025-09-02,8,14
+1096,2025-08-27,Carlos Almeida,Salvador,BA,Chave Inglesa,Ferramentas,5,237.5,Jadlog,Atrasado,2025-08-29,26,10
+1097,2025-08-25,Ana Santos,Natal,RN,Chave Inglesa,Ferramentas,1,47.5,Correios,Em Trânsito,2025-08-26,1,12
+1098,2025-08-11,Fernanda Lima,Belo Horizonte,MG,Serra Circular,Ferramentas,2,640.0,Azul Cargo,Em Trânsito,2025-08-14,36,8
+1099,2025-08-16,Thiago Moreira,Fortaleza,CE,Capacete Protec,EPIs,3,255.0,Jadlog,Entregue,2025-08-22,13,18
+1100,2025-08-19,Sofia Dias,Florianópolis,SC,Furadeira X1000,Ferramentas,1,325.0,Azul Cargo,Em Trânsito,2025-08-21,17,16
