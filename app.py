@@ -2,16 +2,13 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-
 # Carregar dados 
-
 df = pd.read_csv("dados_logistica.csv")
 
-#titulo
-title = ("Dashboard de Logísticas")
+# Título
+st.title("Dashboard de Logística")
 
-#exibir tabela 
-
+# Exibir tabela 
 st.dataframe(df)
 
 # KPIs principais
@@ -24,6 +21,7 @@ col1.metric("Pedidos Totais", total_pedidos)
 col2.metric("Valor Total (R$)", f"{valor_total:,.2f}")
 col3.metric("Entregas no Prazo (%)", f"{pct_no_prazo:.1f}%")
 
+# Filtros na barra lateral
 st.sidebar.header("Filtros")
 
 # Filtro por transportadora
@@ -41,18 +39,19 @@ status = st.sidebar.multiselect(
 
 # Aplicar filtros
 df_filtrado = df.copy()
-
 if transportadora != "Todas":
     df_filtrado = df_filtrado[df_filtrado["Transportadora"] == transportadora]
-
 df_filtrado = df_filtrado[df_filtrado["Status_Entrega"].isin(status)]
 
-
 # Gráfico de pedidos por transportadora
+vc = df_filtrado["Transportadora"].value_counts().reset_index()
+vc.columns = ["Transportadora", "Qtd_Pedidos"]
+
 fig1 = px.bar(
-    df_filtrado["Transportadora"].value_counts().reset_index(),
-    x="index", y="Transportadora",
-    labels={"index": "Transportadora", "Transportadora": "Qtd. Pedidos"},
+    vc,
+    x="Transportadora",
+    y="Qtd_Pedidos",
+    labels={"Transportadora": "Transportadora", "Qtd_Pedidos": "Qtd. Pedidos"},
     title="Pedidos por Transportadora"
 )
 st.plotly_chart(fig1)
@@ -65,5 +64,3 @@ fig2 = px.pie(
     hole=0.4
 )
 st.plotly_chart(fig2)
-
-
